@@ -12,4 +12,4 @@ Instructions:
 
 Check out this image for reference:
 
-![Disabled Addon](/images/disabled-addon.jpg)
+![Disabled Addon](/images/disabled-addon.png)
