@@ -9,3 +9,7 @@ Instructions:
 2) Select _Manage Disabled Items_
 
 3) If Blockspring is on the disabled list, enable it.
+
+Check out this image for reference:
+
+![Disabled Addon](/images/disabled-addon.jpg)
