@@ -1,10 +1,10 @@
-# Report Excel bug with log
+# Report an Excel bug (and logging instructions)
 
 If you've found an bug with our Excel plugin, let us know! We'd love to fix it asap.
 
-Here's the trick - a lot can go wrong. Could be the _very_ specific version of Excel. Could be the _very_ specific version of Windows. Could be a network firewall at your company. Or could be something totally new. The only we can know is if we can check where the plugin code failed on your machine.
+Here's the trick - a lot can go wrong. Could be a problem with a specific update in Excel, Windows, a network firewall, or something completely unique. That's why it'd be very helpful to know exactly where the plugin code failed on your machine.
 
-So we can pinpoint the failure, we'd love for you to temporarily turn on the plugin logging, re-do the steps you did to produce the error, and send us the results. Here's how to do that:
+To pinpoint the failure, we'd love for you to temporarily turn on the plugin logging, re-do the steps you did to produce the error, and send us the results. Here's how to do that:
 
   1) Navigate to following path:  `%appdata%\BlockSpring\Blockspring for Excel\`
   
